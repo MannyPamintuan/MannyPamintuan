@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manny Pamintuan
 - I am a member of the **Bravo - Web Platform Team**
-  - GraphQL
-  - Node.js
-  - Fastify
+  - I am learning about
+    - GraphQL
+    - Node.js
   
 -  💻 message me on Slack `@manny`
 
