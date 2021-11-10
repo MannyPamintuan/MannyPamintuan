@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manny Pamintuan
+- 👋 Hi, I’m Manny
 - I am a member of the **Bravo - Web Platform Team** @care-dot-com
 
 You may have seen me as a reviewer on a PR you submitted.
